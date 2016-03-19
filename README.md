@@ -13,10 +13,10 @@ binary file: （Word2vec的二进制读取可以参考其代码）</p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://pan.baidu.com/s/1qX334vE</p>
 &nbsp;&nbsp;&nbsp;&nbsp;word2vec SKIP: utf8</p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://pan.baidu.com/s/1bogTzfp</p>
-&nbsp;&nbsp;&nbsp;&nbsp;word2vec CBOW: gb18030（语料较优）</p>
+&nbsp;&nbsp;&nbsp;&nbsp;word2vec CBOW: gb18030（精简语料）</p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;上传中</p>
-&nbsp;&nbsp;&nbsp;&nbsp;word2vec SKIP: gb18030（语料较优）</p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;上传中</p>
+&nbsp;&nbsp;&nbsp;&nbsp;word2vec SKIP: gb18030（精简语料）</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://pan.baidu.com/s/1ntVJBYD</p>
 &nbsp;&nbsp;&nbsp;&nbsp;swivel: utf8</p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;待上传</p>
 &nbsp;&nbsp;&nbsp;&nbsp;glove: utf8</p>
