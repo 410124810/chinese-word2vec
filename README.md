@@ -14,7 +14,7 @@ binary file: （Word2vec的二进制读取可以参考其代码）</p>
 &nbsp;&nbsp;&nbsp;&nbsp;word2vec SKIP: utf8</p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://pan.baidu.com/s/1bogTzfp</p>
 &nbsp;&nbsp;&nbsp;&nbsp;word2vec CBOW: gb18030（精简语料）</p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;上传中</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://pan.baidu.com/s/1jHumqjW</p>
 &nbsp;&nbsp;&nbsp;&nbsp;word2vec SKIP: gb18030（精简语料）</p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://pan.baidu.com/s/1ntVJBYD</p>
 &nbsp;&nbsp;&nbsp;&nbsp;swivel: utf8</p>
