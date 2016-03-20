@@ -9,15 +9,15 @@ swivel: https://github.com/tensorflow/models/tree/master/swivel</p>
 训练语料：百科网页+多个分类新闻语料(全半角转换后)</p>
 
 binary file: （Word2vec的二进制读取可以参考其代码）</p>
-&nbsp;&nbsp;&nbsp;&nbsp;word2vec CBOW: utf8</p>
+&nbsp;&nbsp;&nbsp;&nbsp;word2vec CBOW: utf8&nbsp;&nbsp;2.18G</p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://pan.baidu.com/s/1qX334vE</p>
-&nbsp;&nbsp;&nbsp;&nbsp;word2vec SKIP: utf8</p>
+&nbsp;&nbsp;&nbsp;&nbsp;word2vec SKIP: utf8&nbsp;&nbsp;2.17G</p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://pan.baidu.com/s/1bogTzfp</p>
-&nbsp;&nbsp;&nbsp;&nbsp;word2vec CBOW: gb18030（精简语料）</p>
+&nbsp;&nbsp;&nbsp;&nbsp;word2vec CBOW: gb18030（精简语料）&nbsp;&nbsp;2.31G</p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://pan.baidu.com/s/1jHumqjW</p>
-&nbsp;&nbsp;&nbsp;&nbsp;word2vec SKIP: gb18030（精简语料）</p>
+&nbsp;&nbsp;&nbsp;&nbsp;word2vec SKIP: gb18030（精简语料）&nbsp;&nbsp;1.47G</p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://pan.baidu.com/s/1ntVJBYD</p>
-&nbsp;&nbsp;&nbsp;&nbsp;swivel: utf8</p>
+&nbsp;&nbsp;&nbsp;&nbsp;swivel: utf8&nbsp;&nbsp;</p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;待上传</p>
-&nbsp;&nbsp;&nbsp;&nbsp;glove: utf8</p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;模型超过4G网盘无法上传，后续缩小规模后重训上传</p>
+&nbsp;&nbsp;&nbsp;&nbsp;glove: utf8 &nbsp;&nbsp;9.19G</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://pan.baidu.com/s/1i3XowWP</p>
