@@ -23,7 +23,7 @@ binary file: （Word2vec的二进制读取可以参考其代码）</p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://pan.baidu.com/s/1i3XowWP</p>
 
 
-其他：
-&nbsp;&nbsp;&nbsp;&nbsp;使用1.25亿英国twitter训练的词向量：
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;参考地址：https://figshare.com/articles/UK_Twitter_word_embeddings/4052331
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;下载：https://ndownloader.figshare.com/articles/4052331/versions/1
+其他：</p>
+&nbsp;&nbsp;&nbsp;&nbsp;使用1.25亿英国twitter训练的词向量：</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;参考地址：https://figshare.com/articles/UK_Twitter_word_embeddings/4052331 </p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;下载：https://ndownloader.figshare.com/articles/4052331/versions/1 </p>
